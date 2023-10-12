@@ -1,16 +1,24 @@
-<div align='center'>
+<div>
   
-# Swish Analytics
-  
+# Act Blue Form
+
+### Getting Started
+
+`git clone https://github.com/LevonAr/ticket-form.git`
+`cd ticket-form`
+`npm install`
+`npm run start`
+
 ### Overview
   
-This application includes an interactive tables that allows users to filter, sort and search through markets for a basketball game.
+Form to purchase band tickets
 
 I built my own components, no 3rd party libraries.
 
-User Interface Screenshot
+App Screenshot
 
-![Screenshot](https://github.com/LevonAr/swish-table/blob/main/screenshot.png)
+![Screenshot](https://github.com/LevonAr/ticket-form/blob/main/screenshot-1.png)
+![Screenshot](https://github.com/LevonAr/ticket-form/blob/main/screenshot-2.png)
   
   
 ### Technologies
